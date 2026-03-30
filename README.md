@@ -1,5 +1,9 @@
 # Azure End-to-End Data Engineering Project
 
+## Architecture Diagram
+
+![Architecture Diagram](architecture-diagram.png)
+
 This project demonstrates an enterprise-scale modern data platform built using Azure-native services including Azure Data Factory, Azure Databricks, Azure Synapse Analytics, and Microsoft Fabric.
 
 The pipeline implements a Medallion Architecture (Bronze → Silver → Gold) for scalable, reliable, and high-performance analytics workloads.
